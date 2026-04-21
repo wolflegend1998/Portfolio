@@ -1,7 +1,4 @@
 
-  # Create Portfolio Design
-
-  This is a code bundle for Create Portfolio Design. The original project is available at https://www.figma.com/design/E5yttqSNdvHhtmdqmPWBzq/Create-Portfolio-Design.
 
   ## Running the code
 
